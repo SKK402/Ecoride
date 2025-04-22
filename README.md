@@ -64,4 +64,4 @@ Notifications	WhatsApp Cloud API / Toasts
 3) **Vedant Adulkar** - Backend, Devops
 4) **Abhijit Sahoo** - Frontend
 5) **Som Kunar** - AI/ML Specialist, QA Tester
-6) 
+
