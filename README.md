@@ -3,39 +3,44 @@
 
 ## ✨ Features
 ## 🔍 Core Functionality
-Post & Join Rides – Easy multi-step form for drivers; flexible filtering and booking for riders
+1) **Post & Join Rides** – Easy multi-step form for drivers; flexible filtering and booking for riders
 
-Authentication – Google & email login, password reset, admin control
+2) **Authentication** – Google & email login, password reset, admin control
 
-Payment Integration – Secure payment via Razorpay/Stripe (optional setup)
+3) **Payment Integration** – Secure payment via Razorpay/Stripe (optional setup)
 
-Live Notifications – Toasts, reminders, and WhatsApp alerts for ride updates
+4) **Live Notifications** – Toasts, reminders, and WhatsApp alerts for ride updates
 
 ## 🧠 AI-Based Optimization
-Smart Route Planning – Optimized pickup/drop sequence using Google Maps API
+1) **Smart Route Planning** – Optimized pickup/drop sequence using Google Maps API
 
-Real-Time Traffic Integration – Avoids congested routes and live delays
+2) **Real-Time Traffic Integration** – Avoids congested routes and live delays
 
-ETA per Segment – Estimated arrival time for each stop, visualized on a map
+3) **ETA per Segment** – Estimated arrival time for each stop, visualized on a map
 
-Map Visualization – Interactive Google Map with marker pins and road-following routes
+4) **Map Visualization** – Interactive Google Map with marker pins and road-following routes
 
-Pickup/Drop Constraints – Ensures all pickups happen before their respective drops
+5) **Pickup/Drop Constraints** – Ensures all pickups happen before their respective drops
 
 ## 🌱 Eco-Conscious Tools
-Carbon Footprint Tracker – Visual stats on CO₂ saved per ride
+1) **Carbon Footprint Tracker** – Visual stats on CO₂ saved per ride
 
-Preferences & Tags – AC/Non-AC, pets allowed, ladies-only, and more
+2) **Preferences & Tags** – AC/Non-AC, pets allowed, ladies-only, and more
 
 ## 🧠 Tech Stack
 
-Layer	Tech Used
-Frontend	React (Vite) + @react-google-maps/api
-Backend	Python Flask API (route optimizer)
-AI/Logic	Google Distance Matrix API
-Map API	Google Maps JS + DirectionsRenderer
-Database	(Optional) MongoDB / PostgreSQL
+### 1) Frontend	
+
+### 2) Backend
+
+### 3) AI/Logic	
+
+### 4) Map API	Google Maps JS + DirectionsRenderer
+
+### 5) Database	
+
 Auth	Firebase Auth / JWT / Google OAuth
+
 Notifications	WhatsApp Cloud API / Toasts
 
 ## 🔄 Workflow
