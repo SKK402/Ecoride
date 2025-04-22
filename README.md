@@ -52,3 +52,16 @@ Notifications	WhatsApp Cloud API / Toasts
 
 
 ## 🧪 Local Setup
+
+
+
+## 👥 Group Members
+
+### 🚀 Team
+
+1) **Aditya Kumar Sahoo** - UI/UX Designer, DevOps
+2) **Nikhil Kumar** - Frontend, Backend
+3) **Vedant Adulkar** - Backend, Devops
+4) **Abhijit Sahoo** - Frontend
+5) **Som Kunar** - AI/ML Specialist, QA Tester
+6) 
